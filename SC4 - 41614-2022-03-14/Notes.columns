@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"ID","STRING","0","0","0"
+"HistoricalAlarmID","STRING","0","0","0"
+"Date","STRING","0","0","0"
+"User","STRING","0","0","0"
+"Note","STRING","0","0","0"
