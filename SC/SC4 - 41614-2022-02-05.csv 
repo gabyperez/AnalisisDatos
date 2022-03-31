@@ -1,0 +1,6 @@
+ID,State,StateID,StateText,TimeIn,TimeUserAck,TimePLCAck,MessageID,MessageText,Occur,GroupID,GroupText,Priority,Parameter1,Parameter2,Group,Class,HistoricalID,HasNotes,SortBuffer,TimeInUTC
+25,4,"$352",,"02/05/22 03:39:03","12/30/99 00:00:00","12/30/99 00:00:00","$4118","AC power failure",1,"$4115","Power mains",690,"CP:.VC_MX_000_MS_Netzausfall",20000015,18,4,1,0,,"02/05/22 00:39:03"
+47,0,"$362",,"02/04/22 20:42:37","12/30/99 00:00:00","02/05/22 03:39:03","$4146","Ready for automatic operation",1,"$4138","Operation",310,"CP:.VC_MX_006_MH_AutoReady",20000607,24,6,2,0,,"02/04/22 17:42:37"
+38,4,"$352",,"02/05/22 03:39:05","12/30/99 00:00:00","12/30/99 00:00:00","$4135","Control System",1,"$4134","Controls",695,"CP:.VC_MX_004_MS_Max4",20000402,22,4,3,0,,"02/05/22 00:39:05"
+134,4,"$352",,"02/05/22 03:39:05","12/30/99 00:00:00","12/30/99 00:00:00","$4248","Frequency drive RonTech 1",1,"$4244","Inserter",640,"CP:.VC_MX_312_MS_FUBandRontech",20031209,39,4,4,0,,"02/05/22 00:39:05"
+146,4,"$352",,"02/05/22 03:39:05","12/30/99 00:00:00","12/30/99 00:00:00","$4261","Fault converter tube alignment belt",1,"$4258","Flap transfer",640,"CP:.VC_MX_500_MS_FUTubenAusrBand",20050002,40,4,5,0,,"02/05/22 00:39:05"

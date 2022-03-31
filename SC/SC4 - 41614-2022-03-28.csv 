@@ -1,0 +1,2 @@
+ID,State,StateID,StateText,TimeIn,TimeUserAck,TimePLCAck,MessageID,MessageText,Occur,GroupID,GroupText,Priority,Parameter1,Parameter2,Group,Class,HistoricalID,HasNotes,SortBuffer,TimeInUTC
+69,4,"$352",,"03/28/22 06:55:33","12/30/99 00:00:00","12/30/99 00:00:00","$4168","Reference run required",1,"$4138","Operation",610,"CP:.VC_MX_006_MS_HomingNec",20000630,24,4,1,0,,"03/28/22 03:55:33"
